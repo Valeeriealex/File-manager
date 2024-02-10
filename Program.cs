@@ -3,6 +3,7 @@ namespace FileManager
     internal class Program
     {
         private const int PageSize = 2;
+        
         static void Main(string[] args)
         {
             bool isWorking = true;
